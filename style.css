@@ -667,3 +667,11 @@ footer small {
         animation: none;
     }
 }
+
+/* Published website: contact details */
+.contact-details {font-style:normal;line-height:1.7;margin:20px 0 26px;color:#36515c;}
+.contact-details p {margin:0 0 15px;}
+.contact-details strong {color:#122d3c;}
+.contact-details a:not(.btn) {color:#0b7782;overflow-wrap:anywhere;}
+.contact-details .btn {display:inline-block;margin-top:5px;}
+.visit-note {color:#627985;margin-top:18px;font-size:14px;}
